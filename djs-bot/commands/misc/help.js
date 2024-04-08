@@ -152,9 +152,9 @@ module.exports = {
 				value:
 					`Discord Music Bot Version: v${
 						require("../../package.json").version
-					}; Build: ${gitHash}` +
+					}; ` +
 					"\n" +
-					`[✨ Support Server](https://discord.gg/sbySMS7m3v) | [Issues](https://github.com/SudhanPlayz/Discord-MusicBot/issues) | [Source](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5) | [Invite Me](https://discord.com/oauth2/authorize?client_id=${
+					`[✨ Support Server](https://discord.gg/kharkqU) | [VoltHosting](https://volthosting.co.uk/) | [Invite Me](https://discord.com/oauth2/authorize?client_id=${
 						client.config.clientId
 					}&permissions=${
 						client.config.permissions
