@@ -155,7 +155,7 @@ module.exports = {
 				}
 			},
 			{
-				name: "Music",
+				name: "🔥 volthosting.co.uk - Hosting Provider",
 				type: "LISTENING",
 			}
 		],
